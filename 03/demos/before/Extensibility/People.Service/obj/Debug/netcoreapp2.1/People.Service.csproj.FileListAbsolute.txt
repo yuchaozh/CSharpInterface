@@ -1,0 +1,17 @@
+D:\Learning\using-csharp-interfaces\03\demos\before\Extensibility\People.Service\bin\Debug\netcoreapp2.1\People.Service.deps.json
+D:\Learning\using-csharp-interfaces\03\demos\before\Extensibility\People.Service\bin\Debug\netcoreapp2.1\People.Service.runtimeconfig.json
+D:\Learning\using-csharp-interfaces\03\demos\before\Extensibility\People.Service\bin\Debug\netcoreapp2.1\People.Service.runtimeconfig.dev.json
+D:\Learning\using-csharp-interfaces\03\demos\before\Extensibility\People.Service\bin\Debug\netcoreapp2.1\People.Service.dll
+D:\Learning\using-csharp-interfaces\03\demos\before\Extensibility\People.Service\bin\Debug\netcoreapp2.1\People.Service.pdb
+D:\Learning\using-csharp-interfaces\03\demos\before\Extensibility\People.Service\bin\Debug\netcoreapp2.1\PersonRepository.Interface.dll
+D:\Learning\using-csharp-interfaces\03\demos\before\Extensibility\People.Service\bin\Debug\netcoreapp2.1\PersonRepository.Interface.pdb
+D:\Learning\using-csharp-interfaces\03\demos\before\Extensibility\People.Service\obj\Debug\netcoreapp2.1\People.Service.csprojAssemblyReference.cache
+D:\Learning\using-csharp-interfaces\03\demos\before\Extensibility\People.Service\obj\Debug\netcoreapp2.1\People.Service.csproj.CoreCompileInputs.cache
+D:\Learning\using-csharp-interfaces\03\demos\before\Extensibility\People.Service\obj\Debug\netcoreapp2.1\People.Service.RazorAssemblyInfo.cache
+D:\Learning\using-csharp-interfaces\03\demos\before\Extensibility\People.Service\obj\Debug\netcoreapp2.1\People.Service.RazorAssemblyInfo.cs
+D:\Learning\using-csharp-interfaces\03\demos\before\Extensibility\People.Service\obj\Debug\netcoreapp2.1\People.Service.AssemblyInfoInputs.cache
+D:\Learning\using-csharp-interfaces\03\demos\before\Extensibility\People.Service\obj\Debug\netcoreapp2.1\People.Service.AssemblyInfo.cs
+D:\Learning\using-csharp-interfaces\03\demos\before\Extensibility\People.Service\obj\Debug\netcoreapp2.1\People.Service.RazorTargetAssemblyInfo.cache
+D:\Learning\using-csharp-interfaces\03\demos\before\Extensibility\People.Service\obj\Debug\netcoreapp2.1\People.Service.csproj.CopyComplete
+D:\Learning\using-csharp-interfaces\03\demos\before\Extensibility\People.Service\obj\Debug\netcoreapp2.1\People.Service.dll
+D:\Learning\using-csharp-interfaces\03\demos\before\Extensibility\People.Service\obj\Debug\netcoreapp2.1\People.Service.pdb
