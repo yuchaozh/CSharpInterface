@@ -1,0 +1,12 @@
+C:\Users\Administrator\Downloads\Github\CSharpInterface\03\demos\before\Extensibility\PersonRepository.CSV\bin\Debug\netstandard2.0\PersonRepository.CSV.deps.json
+C:\Users\Administrator\Downloads\Github\CSharpInterface\03\demos\before\Extensibility\PersonRepository.CSV\bin\Debug\netstandard2.0\PersonRepository.CSV.dll
+C:\Users\Administrator\Downloads\Github\CSharpInterface\03\demos\before\Extensibility\PersonRepository.CSV\bin\Debug\netstandard2.0\PersonRepository.CSV.pdb
+C:\Users\Administrator\Downloads\Github\CSharpInterface\03\demos\before\Extensibility\PersonRepository.CSV\bin\Debug\netstandard2.0\PersonRepository.Interface.dll
+C:\Users\Administrator\Downloads\Github\CSharpInterface\03\demos\before\Extensibility\PersonRepository.CSV\bin\Debug\netstandard2.0\PersonRepository.Interface.pdb
+C:\Users\Administrator\Downloads\Github\CSharpInterface\03\demos\before\Extensibility\PersonRepository.CSV\obj\Debug\netstandard2.0\PersonRepository.CSV.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\Github\CSharpInterface\03\demos\before\Extensibility\PersonRepository.CSV\obj\Debug\netstandard2.0\PersonRepository.CSV.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\Github\CSharpInterface\03\demos\before\Extensibility\PersonRepository.CSV\obj\Debug\netstandard2.0\PersonRepository.CSV.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\Github\CSharpInterface\03\demos\before\Extensibility\PersonRepository.CSV\obj\Debug\netstandard2.0\PersonRepository.CSV.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\Github\CSharpInterface\03\demos\before\Extensibility\PersonRepository.CSV\obj\Debug\netstandard2.0\PersonRepository.CSV.csproj.CopyComplete
+C:\Users\Administrator\Downloads\Github\CSharpInterface\03\demos\before\Extensibility\PersonRepository.CSV\obj\Debug\netstandard2.0\PersonRepository.CSV.dll
+C:\Users\Administrator\Downloads\Github\CSharpInterface\03\demos\before\Extensibility\PersonRepository.CSV\obj\Debug\netstandard2.0\PersonRepository.CSV.pdb

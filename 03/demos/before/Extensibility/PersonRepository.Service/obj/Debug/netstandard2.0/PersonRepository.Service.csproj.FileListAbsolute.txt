@@ -10,3 +10,15 @@ D:\Learning\using-csharp-interfaces\03\demos\before\Extensibility\PersonReposito
 D:\Learning\using-csharp-interfaces\03\demos\before\Extensibility\PersonRepository.Service\obj\Debug\netstandard2.0\PersonRepository.Service.csproj.CopyComplete
 D:\Learning\using-csharp-interfaces\03\demos\before\Extensibility\PersonRepository.Service\obj\Debug\netstandard2.0\PersonRepository.Service.dll
 D:\Learning\using-csharp-interfaces\03\demos\before\Extensibility\PersonRepository.Service\obj\Debug\netstandard2.0\PersonRepository.Service.pdb
+C:\Users\Administrator\Downloads\Github\CSharpInterface\03\demos\before\Extensibility\PersonRepository.Service\bin\Debug\netstandard2.0\PersonRepository.Service.deps.json
+C:\Users\Administrator\Downloads\Github\CSharpInterface\03\demos\before\Extensibility\PersonRepository.Service\bin\Debug\netstandard2.0\PersonRepository.Service.dll
+C:\Users\Administrator\Downloads\Github\CSharpInterface\03\demos\before\Extensibility\PersonRepository.Service\bin\Debug\netstandard2.0\PersonRepository.Service.pdb
+C:\Users\Administrator\Downloads\Github\CSharpInterface\03\demos\before\Extensibility\PersonRepository.Service\bin\Debug\netstandard2.0\PersonRepository.Interface.dll
+C:\Users\Administrator\Downloads\Github\CSharpInterface\03\demos\before\Extensibility\PersonRepository.Service\bin\Debug\netstandard2.0\PersonRepository.Interface.pdb
+C:\Users\Administrator\Downloads\Github\CSharpInterface\03\demos\before\Extensibility\PersonRepository.Service\obj\Debug\netstandard2.0\PersonRepository.Service.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\Github\CSharpInterface\03\demos\before\Extensibility\PersonRepository.Service\obj\Debug\netstandard2.0\PersonRepository.Service.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\Github\CSharpInterface\03\demos\before\Extensibility\PersonRepository.Service\obj\Debug\netstandard2.0\PersonRepository.Service.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\Github\CSharpInterface\03\demos\before\Extensibility\PersonRepository.Service\obj\Debug\netstandard2.0\PersonRepository.Service.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\Github\CSharpInterface\03\demos\before\Extensibility\PersonRepository.Service\obj\Debug\netstandard2.0\PersonRepository.Service.csproj.CopyComplete
+C:\Users\Administrator\Downloads\Github\CSharpInterface\03\demos\before\Extensibility\PersonRepository.Service\obj\Debug\netstandard2.0\PersonRepository.Service.dll
+C:\Users\Administrator\Downloads\Github\CSharpInterface\03\demos\before\Extensibility\PersonRepository.Service\obj\Debug\netstandard2.0\PersonRepository.Service.pdb

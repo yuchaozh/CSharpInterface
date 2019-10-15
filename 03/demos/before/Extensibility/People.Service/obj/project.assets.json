@@ -11853,23 +11853,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\yuczho\\.nuget\\packages\\": {},
+    "C:\\Users\\Administrator\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Learning\\using-csharp-interfaces\\03\\demos\\before\\Extensibility\\People.Service\\People.Service.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Downloads\\Github\\CSharpInterface\\03\\demos\\before\\Extensibility\\People.Service\\People.Service.csproj",
       "projectName": "People.Service",
-      "projectPath": "D:\\Learning\\using-csharp-interfaces\\03\\demos\\before\\Extensibility\\People.Service\\People.Service.csproj",
-      "packagesPath": "C:\\Users\\yuczho\\.nuget\\packages\\",
-      "outputPath": "D:\\Learning\\using-csharp-interfaces\\03\\demos\\before\\Extensibility\\People.Service\\obj\\",
+      "projectPath": "C:\\Users\\Administrator\\Downloads\\Github\\CSharpInterface\\03\\demos\\before\\Extensibility\\People.Service\\People.Service.csproj",
+      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Administrator\\Downloads\\Github\\CSharpInterface\\03\\demos\\before\\Extensibility\\People.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\yuczho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -11882,8 +11882,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "D:\\Learning\\using-csharp-interfaces\\03\\demos\\before\\Extensibility\\PersonRepository.Interface\\PersonRepository.Interface.csproj": {
-              "projectPath": "D:\\Learning\\using-csharp-interfaces\\03\\demos\\before\\Extensibility\\PersonRepository.Interface\\PersonRepository.Interface.csproj"
+            "C:\\Users\\Administrator\\Downloads\\Github\\CSharpInterface\\03\\demos\\before\\Extensibility\\PersonRepository.Interface\\PersonRepository.Interface.csproj": {
+              "projectPath": "C:\\Users\\Administrator\\Downloads\\Github\\CSharpInterface\\03\\demos\\before\\Extensibility\\PersonRepository.Interface\\PersonRepository.Interface.csproj"
             }
           }
         }
@@ -11904,7 +11904,6 @@
             "autoReferenced": true
           },
           "Microsoft.NETCore.App": {
-            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true

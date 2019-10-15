@@ -7,3 +7,11 @@ D:\Learning\using-csharp-interfaces\03\demos\before\Extensibility\PersonReposito
 D:\Learning\using-csharp-interfaces\03\demos\before\Extensibility\PersonRepository.Interface\obj\Debug\netstandard2.0\PersonRepository.Interface.dll
 D:\Learning\using-csharp-interfaces\03\demos\before\Extensibility\PersonRepository.Interface\obj\Debug\netstandard2.0\PersonRepository.Interface.pdb
 D:\Learning\using-csharp-interfaces\03\demos\before\Extensibility\PersonRepository.Interface\obj\Debug\netstandard2.0\PersonRepository.Interface.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\Github\CSharpInterface\03\demos\before\Extensibility\PersonRepository.Interface\bin\Debug\netstandard2.0\PersonRepository.Interface.deps.json
+C:\Users\Administrator\Downloads\Github\CSharpInterface\03\demos\before\Extensibility\PersonRepository.Interface\bin\Debug\netstandard2.0\PersonRepository.Interface.dll
+C:\Users\Administrator\Downloads\Github\CSharpInterface\03\demos\before\Extensibility\PersonRepository.Interface\bin\Debug\netstandard2.0\PersonRepository.Interface.pdb
+C:\Users\Administrator\Downloads\Github\CSharpInterface\03\demos\before\Extensibility\PersonRepository.Interface\obj\Debug\netstandard2.0\PersonRepository.Interface.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\Github\CSharpInterface\03\demos\before\Extensibility\PersonRepository.Interface\obj\Debug\netstandard2.0\PersonRepository.Interface.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\Github\CSharpInterface\03\demos\before\Extensibility\PersonRepository.Interface\obj\Debug\netstandard2.0\PersonRepository.Interface.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\Github\CSharpInterface\03\demos\before\Extensibility\PersonRepository.Interface\obj\Debug\netstandard2.0\PersonRepository.Interface.dll
+C:\Users\Administrator\Downloads\Github\CSharpInterface\03\demos\before\Extensibility\PersonRepository.Interface\obj\Debug\netstandard2.0\PersonRepository.Interface.pdb
