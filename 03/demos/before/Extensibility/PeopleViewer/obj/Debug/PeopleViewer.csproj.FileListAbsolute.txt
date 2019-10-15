@@ -177,3 +177,5 @@ D:\Learning\using-csharp-interfaces\03\demos\before\Extensibility\PeopleViewer\o
 D:\Learning\using-csharp-interfaces\03\demos\before\Extensibility\PeopleViewer\obj\Debug\PeopleViewer.csproj.CopyComplete
 D:\Learning\using-csharp-interfaces\03\demos\before\Extensibility\PeopleViewer\obj\Debug\PeopleViewer.exe
 D:\Learning\using-csharp-interfaces\03\demos\before\Extensibility\PeopleViewer\obj\Debug\PeopleViewer.pdb
+D:\Learning\using-csharp-interfaces\03\demos\before\Extensibility\PeopleViewer\bin\Debug\PersonRepository.Service.dll
+D:\Learning\using-csharp-interfaces\03\demos\before\Extensibility\PeopleViewer\bin\Debug\PersonRepository.Service.pdb

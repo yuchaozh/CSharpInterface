@@ -1,0 +1,12 @@
+D:\Learning\using-csharp-interfaces\03\demos\before\Extensibility\PersonRepository.Service\bin\Debug\netstandard2.0\PersonRepository.Service.deps.json
+D:\Learning\using-csharp-interfaces\03\demos\before\Extensibility\PersonRepository.Service\bin\Debug\netstandard2.0\PersonRepository.Service.dll
+D:\Learning\using-csharp-interfaces\03\demos\before\Extensibility\PersonRepository.Service\bin\Debug\netstandard2.0\PersonRepository.Service.pdb
+D:\Learning\using-csharp-interfaces\03\demos\before\Extensibility\PersonRepository.Service\bin\Debug\netstandard2.0\PersonRepository.Interface.dll
+D:\Learning\using-csharp-interfaces\03\demos\before\Extensibility\PersonRepository.Service\bin\Debug\netstandard2.0\PersonRepository.Interface.pdb
+D:\Learning\using-csharp-interfaces\03\demos\before\Extensibility\PersonRepository.Service\obj\Debug\netstandard2.0\PersonRepository.Service.csprojAssemblyReference.cache
+D:\Learning\using-csharp-interfaces\03\demos\before\Extensibility\PersonRepository.Service\obj\Debug\netstandard2.0\PersonRepository.Service.csproj.CoreCompileInputs.cache
+D:\Learning\using-csharp-interfaces\03\demos\before\Extensibility\PersonRepository.Service\obj\Debug\netstandard2.0\PersonRepository.Service.AssemblyInfoInputs.cache
+D:\Learning\using-csharp-interfaces\03\demos\before\Extensibility\PersonRepository.Service\obj\Debug\netstandard2.0\PersonRepository.Service.AssemblyInfo.cs
+D:\Learning\using-csharp-interfaces\03\demos\before\Extensibility\PersonRepository.Service\obj\Debug\netstandard2.0\PersonRepository.Service.csproj.CopyComplete
+D:\Learning\using-csharp-interfaces\03\demos\before\Extensibility\PersonRepository.Service\obj\Debug\netstandard2.0\PersonRepository.Service.dll
+D:\Learning\using-csharp-interfaces\03\demos\before\Extensibility\PersonRepository.Service\obj\Debug\netstandard2.0\PersonRepository.Service.pdb
